@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Demo-app
+
+This app demonstrates client-side routing
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [License](#license)
+
+## Getting Started
+to get started on this demo app run this command on your terminal
+## npm create-react-app demo-app
+
+### Prerequisites
+
+List any software or dependencies that need to be installed before running your app.
+
+### Installation
+
+Step-by-step guide on how to install your project:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies with:
+## Licence
+permission is hereby granted to any individual 
+
+
+
+
+
+
+
